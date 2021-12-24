@@ -1,7 +1,6 @@
 import streamlit as st
 import pandas as pd 
 import plotly.express as px
-import seaborn as sns
 description = "My first app"
 import datetime
 def run():
