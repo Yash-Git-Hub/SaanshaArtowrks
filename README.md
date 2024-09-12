@@ -1,4 +1,3 @@
-/*
 # Web Scraper for Saansha Artworks on Amazon
 
 ## Project Overview
